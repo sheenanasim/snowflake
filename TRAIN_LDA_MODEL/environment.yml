@@ -1,0 +1,9 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - gensim=4.3.0
+  - matplotlib=3.7.0
+  - nltk=3.8.1
+  - snowflake-ml-python=1.5.1
+  - spacy-model-en_core_web_sm=3.5.0
